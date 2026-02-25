@@ -709,7 +709,7 @@ export default function Home() {
             <Rv c="rvR">
               <div className="cases-grid">
                 {[
-                  { img:IMG.case1, label:"Gum Disease Monitor" },
+                  { img:IMG.case6, label:"Gum Disease Monitor" },
                   { img:IMG.case2, label:"Virtual Dental Assistant" },
                   { img:IMG.case3, label:"Smart Brush System" },
                   { img:IMG.case4, label:"Smart Dental Diagnosis" },
